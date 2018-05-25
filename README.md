@@ -28,3 +28,15 @@ ball and blockchain baby
 <a>
   <img src="https://github.com/stan-alam/BlockChain/blob/develop/JS/svg_files/01/Notebook-42.svg" width="80%" height="80%">
 </a>
+
+```js
+//simple constructor function in JS
+
+function User(firstName, lastName, age, gender) {
+    this.firstName = firstName;
+    this.lastName = lastName;
+    this.age = age;
+    this.gender = gender;
+  }
+
+```
