@@ -24,8 +24,10 @@ Blockchain.prototype.getLastBlock = function()  {
 }
 
 Blockchain.prototype.createNewTransaction = function(amount, sender, recipient) {
-  amount : amount,
-  sender : sender,
-  recipient : recipient
-};
+const newTransaction {
+    amount : amount,
+    sender : sender,
+    recipient : recipient
+  };
+}
 module.exports = Blockchain;
