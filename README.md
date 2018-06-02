@@ -133,7 +133,3 @@ Blockchain {
 <a>
   <img src="https://github.com/stan-alam/BlockChain/blob/develop/JS/svg_files/01/Notebook-55.svg" width="80%" height="80%">
 </a>
-
-<a>
-  <img src="https://github.com/stan-alam/BlockChain/blob/develop/JS/svg_files/01/Notebook-56.svg" width="80%" height="80%">
-</a>
