@@ -87,8 +87,9 @@ function User(firstName, lastName, age, gender) {
 <a>
   <img src="https://github.com/stan-alam/BlockChain/blob/develop/JS/svg_files/01/Notebook-53.svg" width="80%" height="80%">
 </a>
-```js
 
+```js
+//test.js
 const Blockchain = require('./blockchain');
 
 const dogecoin = new Blockchain();
@@ -97,8 +98,10 @@ dogecoin.createNewBlock(1211, '11ZA90FDNF90R', '8ZANSD9F0N9119Z');
 dogecoin.createNewBlock(5555, '444490FDNF90V', '0ZANSD9F0N9119H');
 console.log(dogecoin); //cli outtput Blockchain { chain: [], newTransactions: [] }
 
+```
+**Terminal output**
 
-/*
+```
 $ node test.js
 Blockchain {
   chain:
@@ -121,7 +124,6 @@ Blockchain {
        hash: '0ZANSD9F0N9119H',
        previousBlockHash: '444490FDNF90V' } ],
   newTransactions: [] }
-*/
 
 ```
 <a>
