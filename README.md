@@ -84,10 +84,6 @@ function User(firstName, lastName, age, gender) {
   <img src="https://github.com/stan-alam/BlockChain/blob/develop/JS/svg_files/01/Notebook-52.svg" width="80%" height="80%">
 </a>
 
-<a>
-  <img src="https://github.com/stan-alam/BlockChain/blob/develop/JS/svg_files/01/Notebook-53.svg" width="80%" height="80%">
-</a>
-
 ```js
 //test.js
 const Blockchain = require('./blockchain');
@@ -126,6 +122,11 @@ Blockchain {
   newTransactions: [] }
 
 ```
+
+<a>
+  <img src="https://github.com/stan-alam/BlockChain/blob/develop/JS/svg_files/01/Notebook-53.svg" width="80%" height="80%">
+</a>
+
 <a>
   <img src="https://github.com/stan-alam/BlockChain/blob/develop/JS/svg_files/01/Notebook-54.svg" width="80%" height="80%">
 </a>
