@@ -73,10 +73,6 @@ function User(firstName, lastName, age, gender) {
 </a>
 
 <a>
-  <img src="https://github.com/stan-alam/BlockChain/blob/develop/JS/svg_files/01/Notebook-50.svg" width="80%" height="80%">
-</a>
-
-<a>
   <img src="https://github.com/stan-alam/BlockChain/blob/develop/JS/svg_files/01/Notebook-51.svg" width="80%" height="80%">
 </a>
 
